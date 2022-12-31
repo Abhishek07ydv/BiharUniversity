@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bpharmapic"
+    android:fillViewport="true"
+    tools:context=".Bpharma">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/bpharmabtn1stsem"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="25sp"
+            android:layout_marginTop="24sp"
+            android:layout_marginStart="30sp"
+            android:layout_marginEnd="30sp"
+            android:layout_gravity="center"
+            android:backgroundTint="#1437F4"
+            android:textColor="@color/white"
+            android:text="1st semester"
+            android:textAlignment="center"
+            />
+
+        <Button
+            android:id="@+id/bpharmabtn2ndsem"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="25sp"
+            android:layout_marginTop="24sp"
+            android:layout_marginStart="30sp"
+            android:layout_marginEnd="30sp"
+            android:layout_gravity="center"
+            android:text="2nd semester"
+            android:textAlignment="center"
+            android:backgroundTint="#1437F4"
+            android:textColor="@color/white"
+            />
+
+    <Button
+        android:id="@+id/bpharmabtn3rdsem"
+        android:text="3rd semester"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="25sp"
+        android:layout_marginTop="24sp"
+        android:layout_marginStart="30sp"
+        android:layout_marginEnd="30sp"
+        android:layout_gravity="center"
+        android:backgroundTint="#1437F4"
+       />
+
+    <Button
+        android:id="@+id/bpharmabtn4rdsem"
+        android:text="4th semester"
+        android:textAlignment="center"
+        android:backgroundTint="#1437F4"
+        android:textColor="@color/white"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="25sp"
+        android:layout_marginTop="24sp"
+        android:layout_marginStart="30sp"
+        android:layout_marginEnd="30sp"
+        android:layout_gravity="center" />
+
+    <Button
+        android:id="@+id/bpharmabtn5thsem"
+        android:backgroundTint="#1437F4"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="25sp"
+        android:text="5TH SEMESTER"
+        android:layout_marginTop="24sp"
+        android:layout_marginStart="30sp"
+        android:layout_marginEnd="30sp"
+        android:layout_gravity="center"/>
+
+    <Button
+        android:id="@+id/bpharmabtn6thsem"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="25sp"
+        android:layout_marginTop="24sp"
+        android:layout_marginStart="30sp"
+        android:layout_marginEnd="30sp"
+        android:layout_gravity="center"
+        android:backgroundTint="#1437F4"
+        android:text="6th semester"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        />
+
+    <Button
+        android:id="@+id/bpharmabtn7thsem"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="25sp"
+        android:layout_marginTop="24sp"
+        android:layout_marginStart="30sp"
+        android:layout_marginEnd="30sp"
+        android:layout_gravity="center"
+        android:backgroundTint="#1437F4"
+        android:text="7th semester"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+      />
+
+    <Button
+        android:id="@+id/bpharmabtn8thsem"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="25sp"
+        android:layout_marginTop="24sp"
+        android:layout_marginStart="30sp"
+        android:layout_marginEnd="30sp"
+        android:layout_gravity="center"
+        android:backgroundTint="#1437F4"
+        android:text="8th semester"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+      />
+
+
+
+    <Button
+        android:id="@+id/bpharmabtnelect"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="25sp"
+        android:layout_marginTop="24sp"
+        android:layout_marginStart="30sp"
+        android:layout_marginEnd="30sp"
+        android:layout_gravity="center"
+        android:backgroundTint="#1437F4"
+        android:text="ElECTIVE"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        />
+
+    </LinearLayout>
+</ScrollView>

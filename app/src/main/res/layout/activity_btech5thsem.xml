@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/csepic"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    tools:context=".Btech5thsem">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/btn5thsemsyllbus"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30sp"
+            android:layout_gravity="center"
+            android:layout_marginStart="30sp"
+            android:layout_marginEnd="30sp"
+            android:layout_marginTop="24sp"
+            android:text="SYLLaBUS"
+            android:textAlignment="center"
+            android:backgroundTint="#1437F4"
+            android:textColor="@color/white"
+            />
+
+        <Button
+            android:id="@+id/btn5thsempreviques"
+            android:text="PREVIOUS QUESTION"
+            android:textColor="@color/white"
+            android:backgroundTint="#1437F4"
+            android:textAlignment="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="28sp"
+            android:layout_gravity="center"
+            android:layout_marginStart="30sp"
+            android:layout_marginEnd="30sp"
+            android:layout_marginTop="24sp"
+            />
+
+        <Button
+            android:id="@+id/btn5thsemnotes"
+            android:text="NOTES"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:backgroundTint="#1437F4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30sp"
+            android:layout_gravity="center"
+            android:layout_marginStart="30sp"
+            android:layout_marginEnd="30sp"
+            android:layout_marginTop="24sp" />
+
+        <Button
+            android:id="@+id/btn5thsemorganiser"
+            android:text="ORGANISER"
+            android:textColor="@color/white"
+            android:textAlignment="center"
+            android:backgroundTint="#1437F4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30sp"
+            android:layout_gravity="center"
+            android:layout_marginStart="30sp"
+            android:layout_marginEnd="30sp"
+            android:layout_marginTop="24sp"
+            />
+
+    </LinearLayout>
+</ScrollView>

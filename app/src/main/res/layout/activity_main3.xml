@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity3">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+
+
+
+    <ImageButton
+        android:id="@+id/button5"
+        android:layout_width="121dp"
+        android:layout_height="83dp"
+       android:layout_gravity="center"
+        android:layout_marginTop="24sp"
+        android:background="@drawable/btech"/>
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="67sp"
+        android:layout_height="26sp"
+        android:text="B.tech"
+        android:textSize="18sp"
+        android:textAlignment="center"
+        android:textColor="#5972FB"
+       android:layout_gravity="center" />
+
+    <ImageButton
+        android:id="@+id/btnbpharma"
+        android:layout_width="122sp"
+        android:layout_height="92sp"
+        android:background="@drawable/bpharma"
+       android:layout_gravity="center"
+        android:layout_marginTop="24sp"/>
+
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="93sp"
+        android:layout_height="28sp"
+        android:text="B.Pharma"
+        android:textAlignment="center"
+        android:textColor="#5972FB"
+        android:textSize="18sp"
+       android:layout_gravity="center" />
+
+    <ImageButton
+        android:id="@+id/btnmbbs"
+        android:layout_width="117sp"
+        android:layout_height="91sp"
+        android:layout_marginTop="24sp"
+        android:background="@drawable/mbbs"
+       android:layout_gravity="center" />
+
+    <TextView
+        android:id="@+id/textView14"
+        android:layout_width="78sp"
+        android:layout_height="29sp"
+        android:text="MBBS"
+        android:textSize="18sp"
+        android:textAlignment="center"
+        android:textColor="#5972FB"
+       android:layout_gravity="center" />
+
+    <ImageButton
+        android:id="@+id/btnbca"
+        android:layout_width="118sp"
+        android:layout_height="92sp"
+        android:background="@drawable/bca"
+       android:layout_gravity="center"
+        android:layout_marginTop="24sp"/>
+
+    <TextView
+        android:id="@+id/textView15"
+        android:layout_width="92sp"
+        android:layout_height="26sp"
+        android:text="BCA"
+        android:layout_gravity="center"
+
+        android:textAlignment="center"
+        android:textSize="18sp"
+        android:textColor="#5972FB"/>
+    </LinearLayout>
+</ScrollView>

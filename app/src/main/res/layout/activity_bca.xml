@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bcapic"
+    tools:context=".Bca"
+    android:fillViewport="true">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+    <Button
+        android:id="@+id/btnbca1"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:backgroundTint="#1437F4"
+        android:text="1st semester"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:layout_marginTop="24sp"
+        android:layout_marginStart="30sp"
+        android:layout_marginEnd="30sp"
+        />
+
+    <Button
+        android:id="@+id/btnbca2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:layout_marginTop="24sp"
+        android:layout_marginStart="30sp"
+        android:layout_marginEnd="30sp"
+        android:backgroundTint="#1437F4"
+        android:text="2nd semester"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+
+       />
+
+    <Button
+        android:id="@+id/btnbca3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:layout_marginTop="24sp"
+        android:layout_marginStart="30sp"
+        android:layout_marginEnd="30sp"
+        android:backgroundTint="#1437F4"
+        android:text="3rd SEMESTER"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+       />
+
+    <Button
+        android:id="@+id/btnbca4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:layout_marginTop="24sp"
+        android:layout_marginStart="30sp"
+        android:layout_marginEnd="30sp"
+        android:backgroundTint="#1437F4"
+        android:text="4th semester"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+       />
+
+    <Button
+        android:id="@+id/btnbca5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:layout_marginTop="24sp"
+        android:layout_marginStart="30sp"
+        android:layout_marginEnd="30sp"
+        android:backgroundTint="#1437F4"
+        android:text="5th semester"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        />
+
+    <Button
+        android:id="@+id/btnbca6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:layout_marginTop="24sp"
+        android:layout_marginStart="30sp"
+        android:layout_marginEnd="30sp"
+        android:backgroundTint="#1437F4"
+        android:text="6th semester"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+       />
+
+    </LinearLayout>
+</ScrollView>

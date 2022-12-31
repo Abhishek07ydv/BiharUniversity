@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/machenicspic"
+    tools:context=".Btech2ndsemmec">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <Button
+
+            android:id="@+id/btn2ndsemsyllbusmec"
+            android:text="syllabus"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#1437F4"
+            android:textColor="@color/white"
+            android:textSize="30sp"
+            android:layout_marginStart="30sp"
+            android:layout_marginEnd="30sp"
+            android:layout_gravity="center"
+            android:layout_marginTop="24sp" />
+
+        <Button
+            android:id="@+id/btn2ndsemprevquesmec"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#1437F4"
+            android:textColor="@color/white"
+            android:textSize="28sp"
+            android:text="PREVIOUS QUESTION"
+            android:layout_gravity="center"
+            android:layout_marginTop="24sp"
+            android:layout_marginStart="30sp"
+            android:layout_marginEnd="30sp"/>
+
+        <Button
+            android:id="@+id/btn2ndsemnotemec"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#1437F4"
+            android:textColor="@color/white"
+            android:textSize="30sp"
+            android:text="NOTES"
+            android:layout_gravity="center"
+            android:layout_marginTop="24sp"
+            android:layout_marginStart="30sp"
+            android:layout_marginEnd="30sp"/>
+
+        <Button
+            android:id="@+id/btn2ndsemorganizmec"
+            android:layout_width="match_parent"
+            android:text="ORGANISER"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#1437F4"
+            android:textColor="@color/white"
+            android:textSize="30sp"
+            android:layout_marginStart="30sp"
+            android:layout_marginEnd="30sp"
+            android:layout_gravity="center"
+            android:layout_marginTop="24sp" />
+
+
+    </LinearLayout>
+</ScrollView>

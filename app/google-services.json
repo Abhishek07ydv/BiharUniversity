@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "578607426547",
+    "project_id": "bihar-university-6857e",
+    "storage_bucket": "bihar-university-6857e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578607426547:android:0f8cbadce074c729450086",
+        "android_client_info": {
+          "package_name": "com.abhishek.biharuniversity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578607426547-avr2debfl4kbek2o20p0bishsut2p5jr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abhishek.biharuniversity",
+            "certificate_hash": "d829d31b82449013b94e3323bb969100b34242ad"
+          }
+        },
+        {
+          "client_id": "578607426547-e9agnkkb5h8apmf58lvdtt3ko3nqiaej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbWOEyYIJF8RymJ1JraV3UQlwkbZH9H6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578607426547-e9agnkkb5h8apmf58lvdtt3ko3nqiaej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

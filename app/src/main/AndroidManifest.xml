@@ -1,0 +1,2040 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.abhishek.biharuniversity">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/applogo_foreground"
+        android:label=""
+        android:roundIcon="@mipmap/applogo_foreground"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+        <activity
+            android:name=".syllabus8thsemit"
+             android:parentActivityName=".IT"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllabus7thsemit"
+             android:parentActivityName=".IT"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllabus6thsemit"
+             android:parentActivityName=".IT"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllabus5thsemit"
+             android:parentActivityName=".IT"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllabus4thsemit"
+             android:parentActivityName=".IT"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllabus3rdsemit"
+             android:parentActivityName=".IT"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllabus2ndsemit"
+            android:parentActivityName=".IT"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllabus1stsemit"
+            android:parentActivityName=".IT"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".IT"
+            android:label="INFORMATION TECHNOLOGY"
+            android:parentActivityName=".branches"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".iitsyllabusmech8thsem"
+             android:parentActivityName=".iitmachenics"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".iitsyllabusmech7thsem"
+             android:parentActivityName=".iitmachenics"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".iitsyllabusmech6thsem"
+             android:parentActivityName=".iitmachenics"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".iitsyllabusmech5thsem"
+             android:parentActivityName=".iitmachenics"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".iitsyllabusmech4thsem"
+             android:parentActivityName=".iitmachenics"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".iitsyllabusmech3rdsem"
+             android:parentActivityName=".iitmachenics"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".iitsyllabusmech2ndsem"
+            android:parentActivityName=".iitmachenics"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".iitsyllabusmech1stsem"
+            android:parentActivityName=".iitmachenics"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".iitsyllabuseee8thsem"
+            android:parentActivityName=".iiteee"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".iitsyllabuseee7thsem"
+            android:parentActivityName=".iiteee"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".iitsyllabuseee6thsem"
+            android:parentActivityName=".iiteee"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".iitsyllabuseee5thsem"
+            android:parentActivityName=".iiteee"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".iitsyllabuseee4thsem"
+            android:parentActivityName=".iiteee"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".iitsyllabuseee3rdsem"
+            android:parentActivityName=".iiteee"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".iitsyllabuseee2ndsem"
+            android:parentActivityName=".iiteee"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".iitsyllabuseee1stsem"
+            android:parentActivityName=".iiteee"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".iitsyllabusee8thsem"
+             android:parentActivityName=".iitee"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".iitsyllabusee7thsem"
+             android:parentActivityName=".iitee"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".iitsyllabusee6thsem"
+             android:parentActivityName=".iitee"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".iitsyllabusee5thsem"
+             android:parentActivityName=".iitee"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".iitsyllabusee4thsem"
+             android:parentActivityName=".iitee"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".iitsyllabusee3rdsem"
+             android:parentActivityName=".iitee"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".iitsyllabusee2ndsem"
+             android:parentActivityName=".iitee"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".iitsyllabusee1stsem"
+            android:parentActivityName=".iitee"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".iitsyllabusece8thsem"
+             android:parentActivityName=".iitece"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".iitsyllabusece7thsem"
+             android:parentActivityName=".iitece"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".iitsyllabusece6thsem"
+             android:parentActivityName=".iitece"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".iitsyllabusece5thsem"
+             android:parentActivityName=".iitece"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".iitsyllabusece4thsem"
+            android:parentActivityName=".iitece"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".iitsyllabusece3rdsem"
+            android:parentActivityName=".iitece"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".iitsyllabusece2ndsem"
+            android:parentActivityName=".iitece"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".iitsyllabusece1stsem"
+            android:parentActivityName=".iitece"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".iitsyllabuscse8thsem"
+             android:parentActivityName=".iitcse"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".iitsyllabuscse7thsem"
+             android:parentActivityName=".iitcse"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".iitsyllabuscse6thsem"
+             android:parentActivityName=".iitcse"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".iitsyllabuscse5thsem"
+             android:parentActivityName=".iitcse"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".iitsyllabuscse4thsem"
+             android:parentActivityName=".iitcse"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".iitsyllabuscse3rdsem"
+             android:parentActivityName=".iitcse"
+
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".iitsyllabuscse2ndsem"
+            android:parentActivityName=".iitcse"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".iitsyllabuscse1stsem"
+            android:parentActivityName=".iitcse"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".iitsyllabuscivil8thsem"
+            android:parentActivityName=".iitcivil"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".iitsyllabuscivil7thsem"
+            android:parentActivityName=".iitcivil"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".iitsyllabuscivil6thsem"
+            android:parentActivityName=".iitcivil"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".iitsyllabuscivil5thsem"
+            android:parentActivityName=".iitcivil"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".iitsyllabuscivil4thsem"
+            android:parentActivityName=".iitcivil"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".iitsyllabuscivil3rdsem"
+            android:parentActivityName=".iitcivil"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".iitsyllabuscivil2ndsem"
+            android:parentActivityName=".iitcivil"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".iitsyllabuscivil1stsem"
+              android:label="SYLLABUS"
+            android:parentActivityName=".iitcivil"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".iitee"
+            android:label="ELECTRICAL ENGINEERING"
+            android:parentActivityName=".IITbtechbranches"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".iitmachenics"
+            android:label="MECHANICAL ENGINEERING"
+            android:parentActivityName=".IITbtechbranches"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".iiteee"
+            android:parentActivityName=".IITbtechbranches"
+            android:label="ELECTRICAL AND ELECTRONICS ENGINEERING"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".iitece"
+            android:parentActivityName=".IITbtechbranches"
+            android:label="ELECTRONICS AND COMMUNICATIONS ENGINEERING"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".iitcivil"
+            android:parentActivityName=".IITbtechbranches"
+            android:label="CIVIL ENGINEERING"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".iitcse"
+            android:label="COMPUTER SCIENCE AND ENGINEERING"
+            android:parentActivityName=".IITbtechbranches"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".IITbtechbranches"
+            android:parentActivityName=".IIT"
+            android:label="BRANCHES"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".IIT"
+            android:label="INDIAN INSTITUTE OF TECHNOLOGY"
+            android:parentActivityName=".MainActivity2"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".organiser8thsemee"
+            android:parentActivityName=".Btech8thsemee"
+             android:label="ORGANISER"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".organiser7thsemee"
+            android:parentActivityName=".Btech7thsemee"
+             android:label="ORGANISER"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".organiser6thsemee"
+            android:parentActivityName=".Btech6thsemee"
+             android:label="ORGANISER"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".organiser5thsemee"
+            android:parentActivityName=".Btech5thsemee"
+             android:label="ORGANISER"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".organiser4thsemee"
+            android:parentActivityName=".Btech4thsemee"
+             android:label="ORGANISER"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".organiser3rdsemee"
+            android:parentActivityName=".Btech3rdsemee"
+             android:label="ORGANISER"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".organiser2ndsemee"
+            android:parentActivityName=".Btech2ndsemee"
+             android:label="ORGANISER"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".notes8thsemee"
+            android:parentActivityName=".Btech8thsemee"
+             android:label="NOTES"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".notes7thsemee"
+            android:parentActivityName=".Btech7thsemee"
+             android:label="NOTES"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".notes6thsemee"
+            android:parentActivityName=".Btech6thsemee"
+             android:label="NOTES"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".notes5thsemee"
+            android:parentActivityName=".Btech5thsemee"
+             android:label="NOTES"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".notes4thsemee"
+            android:parentActivityName=".Btech4thsemee"
+             android:label="NOTES"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".notes3rdsemee"
+            android:parentActivityName=".Btech3rdsemee"
+             android:label="NOTES"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".notes2ndsemee"
+            android:parentActivityName=".Btech2ndsemee"
+             android:label="NOTES"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".previquestion8thsemee"
+            android:parentActivityName=".Btech8thsemee"
+            android:label="PREVIOUS QUESTION"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".previquestion7thsemee"
+            android:parentActivityName=".Btech7thsemee"
+            android:label="PREVIOUS QUESTION"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".previquestion6thsemee"
+            android:parentActivityName=".Btech6thsemee"
+            android:label="PREVIOUS QUESTION"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".previquestion5thsemee"
+            android:parentActivityName=".Btech5thsemee"
+            android:label="PREVIOUS QUESTION"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".previquestion4thsemee"
+            android:parentActivityName=".Btech4thsemee"
+            android:label="PREVIOUS QUESTION"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".previquestion3rdsemee"
+            android:label="PREVIOUS QUESTION"
+            android:parentActivityName=".Btech3rdsemee"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".previquestion2ndsemee"
+            android:parentActivityName=".Btech2ndsemee"
+            android:label="PREVIOUS QUESTION"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllabus8thsemee"
+            android:parentActivityName=".Btech8thsemee"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllabus7thsemee"
+            android:parentActivityName=".Btech7thsemee"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllabus6thsemee"
+            android:parentActivityName=".Btech6thsemee"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllabus5thsemee"
+            android:parentActivityName=".Btech5thsemee"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllabus4thsemee"
+            android:parentActivityName=".Btech4thsemee"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllabus3rdsemee"
+            android:parentActivityName=".Btech3rdsemee"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllabus2ndsemee"
+            android:parentActivityName=".Btech2ndsemee"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".organiser1stsemee"
+            android:parentActivityName=".Btech1stsemee"
+            android:label="ORGANISER"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".notes1stsemee"
+            android:parentActivityName=".Btech1stsemee"
+             android:label="NOTES"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".previquestion1stsemee"
+            android:label="PREVIOUS QUESTION"
+            android:parentActivityName=".Btech1stsemee"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllabus1stsemee"
+              android:label="SYLLABUS"
+            android:parentActivityName=".Btech1stsemee"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".Btech8thsemee"
+            android:label="8th SEMESTER"
+            android:parentActivityName=".EE"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".Btech7thsemee"
+            android:label="7th SEMESTER"
+            android:parentActivityName=".EE"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".Btech6thsemee"
+            android:label="6th SEMESTER"
+            android:parentActivityName=".EE"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".Btech5thsemee"
+            android:label="5th SEMESTER"
+            android:parentActivityName=".EE"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".Btech4thsemee"
+            android:label="4th SEMESTER"
+            android:parentActivityName=".EE"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".Btech3rdsemee"
+            android:parentActivityName=".EE"
+            android:label="3rd SEMESTER"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".Btech2ndsemee"
+            android:label="2nd SEMESTER"
+            android:parentActivityName=".EE"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".Btech1stsemee"
+            android:label="1st SEMESTER"
+            android:parentActivityName=".EE"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".EE"
+            android:label="ELECTRICAL ENGINEERING"
+            android:parentActivityName=".branches"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllabus4thsemmbbs"
+              android:parentActivityName=".Mbbs"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllabus3rdsemmbbs"
+              android:parentActivityName=".Mbbs"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllabus2ndsemmbbs"
+              android:parentActivityName=".Mbbs"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllabus1stsemmbbs"
+            android:parentActivityName=".Mbbs"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllabus6thsembca"
+             android:parentActivityName=".Bca"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllabus5thsembca"
+              android:label="SYLLABUS"
+             android:parentActivityName=".Bca"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllabus4thsembca"
+             android:parentActivityName=".Bca"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllabus3rdsembca"
+             android:parentActivityName=".Bca"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllabus2ndsembca"
+             android:parentActivityName=".Bca"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllabus1stsembca"
+            android:parentActivityName=".Bca"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllabuselectbpharma"
+             android:parentActivityName=".Bpharma"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllabus8thsembpharma"
+             android:parentActivityName=".Bpharma"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllabus7thsembpharma"
+             android:parentActivityName=".Bpharma"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllabus6thsembpharma"
+             android:parentActivityName=".Bpharma"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllabus5thsembpharma"
+             android:parentActivityName=".Bpharma"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllabus4thsembpharma"
+             android:parentActivityName=".Bpharma"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllabus3rdsembpharma"
+             android:parentActivityName=".Bpharma"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllabus2ndsembpharma"
+            android:parentActivityName=".Bpharma"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllabus1stsembpharma"
+            android:label="SYLLABUS"
+            android:parentActivityName=".Bpharma"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".Bca"
+            android:label="BCA"
+              android:parentActivityName=".branches"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".Mbbs"
+            android:label="MBBS"
+              android:parentActivityName=".branches"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".Bpharma"
+            android:label="B.PHARMA"
+            android:parentActivityName=".branches"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".organiser1stsemmec"
+            android:parentActivityName=".Btech1stsemmec"
+             android:label="ORGANISER"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".organiser2ndsemmec"
+            android:parentActivityName=".Btech2ndsemmec"
+             android:label="ORGANISER"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".organiser3rdsemmec"
+            android:parentActivityName=".Btech3rdsemmec"
+             android:label="ORGANISER"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".organiser4thsemmec"
+            android:parentActivityName=".Btech4thsemmec"
+             android:label="ORGANISER"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".organiser5thsemmec"
+            android:parentActivityName=".Btech5thsemmec"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".organiser6thsemmec"
+            android:parentActivityName=".Btech6thsemmec"
+             android:label="ORGANISER"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".organiser7thsemmec"
+            android:parentActivityName=".Btech7thsemmec"
+             android:label="ORGANISER"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".organiser8thsemmec"
+            android:parentActivityName=".Btech8thsemmec"
+             android:label="ORGANISER"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".notes1stsemmec"
+            android:parentActivityName=".Btech1stsemmec"
+             android:label="NOTES"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".notes2ndsemmec"
+            android:parentActivityName=".Btech2ndsemmec"
+             android:label="NOTES"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".notes3rdsemmec"
+            android:parentActivityName=".Btech3rdsemmec"
+             android:label="NOTES"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".notes4thsemmec"
+            android:parentActivityName=".Btech4thsemmec"
+             android:label="NOTES"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".notes5thsemmec"
+            android:parentActivityName=".Btech5thsemmec"
+             android:label="NOTES"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".notes6thsemmec"
+            android:parentActivityName=".Btech6thsemmec"
+             android:label="NOTES"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".notes7thsemmec"
+            android:parentActivityName=".Btech7thsemmec"
+             android:label="NOTES"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".notes8thsemmec"
+            android:parentActivityName=".Btech8thsemmec"
+             android:label="NOTES"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".prequestion8thsemmec"
+            android:parentActivityName=".Btech8thsemmec"
+            android:label="PREVIOUS QUESTION"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".prequestion7thsemmec"
+            android:parentActivityName=".Btech7thsemmec"
+            android:label="PREVIOUS QUESTION"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".prequestion6thsemmec"
+            android:parentActivityName=".Btech6thsemmec"
+            android:label="PREVIOUS QUESTION"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".prequestion5thsemmec"
+            android:parentActivityName=".Btech5thsemmec"
+            android:label="PREVIOUS QUESTION"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".prequestion4thsemmec"
+            android:parentActivityName=".Btech4thsemmec"
+            android:label="PREVIOUS QUESTION"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".prequestion3rdsemmec"
+            android:parentActivityName=".Btech3rdsemmec"
+            android:label="PREVIOUS QUESTION"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".prequestion2ndsemmec"
+            android:parentActivityName=".Btech2ndsemmec"
+            android:label="PREVIOUS QUESTION"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".prequestion1stsemmec"
+            android:parentActivityName=".Btech1stsemmec"
+            android:label="PREVIOUS QUESTION"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllbus8thsemmec"
+            android:parentActivityName=".Btech8thsemmec"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllbus7thsemmec"
+            android:parentActivityName=".Btech7thsemmec"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllbus6thsemmec"
+            android:parentActivityName=".Btech6thsemmec"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllbus5thsemmec"
+            android:parentActivityName=".Btech5thsemmec"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllbus4thsemmec"
+            android:parentActivityName=".Btech4thsemmec"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllbus3rdsemmec"
+            android:parentActivityName=".Btech3rdsemmec"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllbus2ndsemmec"
+            android:parentActivityName=".Btech2ndsemmec"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllbus1stsemmec"
+            android:parentActivityName=".Btech1stsemmec"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".Btech8thsemmec"
+            android:label="8th SEMESTER"
+              android:parentActivityName=".mechanics"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".Btech7thsemmec"
+            android:label="7th SEMESTER"
+              android:parentActivityName=".mechanics"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".Btech6thsemmec"
+            android:label="6th SEMESTER"
+              android:parentActivityName=".mechanics"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".Btech5thsemmec"
+            android:label="5th SEMESTER"
+              android:parentActivityName=".mechanics"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".Btech4thsemmec"
+            android:label="4th SEMESTER"
+              android:parentActivityName=".mechanics"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".Btech3rdsemmec"
+            android:label="3rd SEMESTER"
+              android:parentActivityName=".mechanics"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".Btech2ndsemmec"
+            android:label="2nd SEMESTER"
+              android:parentActivityName=".mechanics"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".Btech1stsemmec"
+            android:label="1st SEMESTER"
+            android:parentActivityName=".mechanics"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".organiser8thsemeee"
+            android:parentActivityName=".Btech8thsemeee"
+             android:label="ORGANISER"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".organiser7thsemeee"
+            android:parentActivityName=".Btech7thsemeee"
+             android:label="ORGANISER"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".organiser6thsemeee"
+            android:parentActivityName=".Btech6thsemeee"
+             android:label="ORGANISER"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".organiser5thsemeee"
+            android:parentActivityName=".Btech5thsemeee"
+             android:label="ORGANISER"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".organiser4thsemeee"
+            android:parentActivityName=".Btech4thsemeee"
+             android:label="ORGANISER"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".organiser3rdsemeee"
+            android:parentActivityName=".Btech3rdsemeee"
+             android:label="ORGANISER"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".organiser2ndsemeee"
+            android:parentActivityName=".Btech2ndsemeee"
+             android:label="ORGANISER"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".organiser1stsemeee"
+            android:parentActivityName=".Btech1stsemeee"
+             android:label="ORGANISER"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".notes8thsemeee"
+            android:parentActivityName=".Btech8thsemeee"
+             android:label="NOTES"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".notes7thsemeee"
+            android:parentActivityName=".Btech7thsemeee"
+             android:label="NOTES"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".notes6thsemeee"
+            android:parentActivityName=".Btech6thsemeee"
+             android:label="NOTES"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".notes5thsemeee"
+            android:parentActivityName=".Btech5thsemeee"
+             android:label="NOTES"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".notes4thsemeee"
+            android:parentActivityName=".Btech4thsemeee"
+             android:label="NOTES"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".notes3rdsemeee"
+            android:parentActivityName=".Btech3rdsemeee"
+             android:label="NOTES"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".notes2ndsemeee"
+            android:parentActivityName=".Btech2ndsemeee"
+             android:label="NOTES"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".notes1stsemeee"
+             android:label="NOTES"
+            android:parentActivityName=".Btech1stsemeee"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".prequestion8thsemeee"
+            android:label="PREVIOUS QUESTION"
+            android:parentActivityName=".Btech8thsemeee"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".prequestion7thsemeee"
+            android:parentActivityName=".Btech7thsemeee"
+            android:label="PREVIOUS QUESTION"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".prequestion6thsemeee"
+            android:parentActivityName="Btech6thsemeee"
+            android:label="PREVIOUS QUESTION"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".prequestion5thsemeee"
+            android:parentActivityName=".Btech5thsemeee"
+            android:label="PREVIOUS QUESTION"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".prequestion4thsemeee"
+            android:parentActivityName=".Btech4thsemeee"
+            android:label="PREVIOUS QUESTION"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".prequestion3rdsemeee"
+            android:parentActivityName=".Btech3rdsemeee"
+            android:label="PREVIOUS QUESTION"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".prequestion2ndsemeee"
+            android:parentActivityName=".Btech2ndsemeee"
+            android:label="PREVIOUS QUESTION"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".prequestion1stsemeee"
+            android:parentActivityName=".Btech1stsemeee"
+            android:label="PREVIOUS QUESTION"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllbus8thsemeee"
+            android:parentActivityName=".Btech8thsemeee"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllbus7thsemeee"
+            android:parentActivityName=".Btech7thsemeee"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllbus6thsemeee"
+            android:parentActivityName=".Btech6thsemeee"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllbus5thsemeee"
+            android:parentActivityName=".Btech5thsemeee"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllbus4thsemeee"
+            android:parentActivityName=".Btech4thsemeee"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllbus3rdsemeee"
+            android:parentActivityName=".Btech3rdsemeee"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllbus2ndsemeee"
+            android:parentActivityName=".Btech2ndsemeee"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllbus1stsemeee"
+            android:parentActivityName=".Btech1stsemeee"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".Btech8thsemeee"
+            android:label="8th SEMESTER"
+              android:parentActivityName=".eee"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".Btech7thsemeee"
+            android:label="7th SEMESTER"
+              android:parentActivityName=".eee"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".Btech6thsemeee"
+            android:label="6th SEMESTER"
+              android:parentActivityName=".eee"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".Btech5thsemeee"
+            android:label="5th SEMESTER"
+              android:parentActivityName=".eee"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".Btech4thsemeee"
+            android:label="4th SEMESTER"
+              android:parentActivityName=".eee"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".Btech3rdsemeee"
+            android:label="3rd SEMESTER"
+            android:parentActivityName=".eee"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".Btech2ndsemeee"
+            android:label="2nd SEMESTER"
+            android:parentActivityName=".eee"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".Btech1stsemeee"
+            android:label="1st SEMESTER"
+            android:parentActivityName=".eee"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".Btech7thseme"
+            android:parentActivityName=".ece"
+            android:label="7th SEMESTER"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".organiser8thseme"
+            android:parentActivityName=".Btech8thseme"
+             android:label="ORGANISER"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".organiser7thseme"
+            android:parentActivityName=".Btech7thseme"
+             android:label="ORGANISER"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".organiser6thseme"
+            android:parentActivityName=".Btech6thseme"
+             android:label="ORGANISER"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".organiser5thseme"
+             android:label="ORGANISER"
+            android:parentActivityName=".Btech5thseme"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".organiser4thseme"
+             android:label="ORGANISER"
+            android:parentActivityName=".Btech4thseme"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".organiser3rdseme"
+            android:parentActivityName=".Btech3rdseme"
+             android:label="ORGANISER"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".organiser2ndseme"
+            android:parentActivityName=".Btech2ndseme"
+             android:label="ORGANISER"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".organiser1stseme"
+            android:parentActivityName=".Btech1stseme"
+             android:label="ORGANISER"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".notes8thseme"
+            android:parentActivityName=".Btech8thseme"
+             android:label="NOTES"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".notes7thseme"
+            android:parentActivityName=".Btech7thseme"
+             android:label="NOTES"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".notes6thseme"
+            android:parentActivityName=".Btech6thseme"
+             android:label="NOTES"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".notes5thseme"
+             android:label="NOTES"
+            android:parentActivityName=".Btech5thseme"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".notes4thseme"
+             android:label="NOTES"
+            android:parentActivityName=".Btech4thseme"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".notes3rdseme"
+            android:parentActivityName=".Btech3rdseme"
+             android:label="NOTES"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".notes2ndseme"
+            android:parentActivityName=".Btech2ndseme"
+             android:label="NOTES"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".notes1stseme"
+            android:parentActivityName=".Btech1stseme"
+             android:label="NOTES"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".prequestion8thseme"
+            android:parentActivityName=".Btech8thseme"
+            android:label="PREVIOUS QUESTION"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".prequestion7thseme"
+            android:parentActivityName=".Btech7thseme"
+            android:label="PREVIOUS QUESTION"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".prequestion6thseme"
+            android:parentActivityName=".Btech6thseme"
+            android:label="PREVIOUS QUESTION"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".prequestion5thseme"
+            android:parentActivityName=".Btech5thseme"
+            android:label="PREVIOUS QUESTION"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".prequestion4thseme"
+            android:parentActivityName=".Btech4thseme"
+            android:label="PREVIOUS QUESTION"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".prequestion3rdseme"
+            android:parentActivityName=".Btech3rdseme"
+            android:label="PREVIOUS QUESTION"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".prequestion2ndseme"
+            android:label="PREVIOUS QUESTION"
+            android:parentActivityName=".Btech2ndseme"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".prequestion1stseme"
+            android:parentActivityName=".Btech1stseme"
+            android:label="PREVIOUS QUESTION"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllbus8thseme"
+              android:label="SYLLABUS"
+            android:parentActivityName=".Btech8thseme"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllbus7thseme"
+            android:parentActivityName=".Btech7thseme"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllbus6thseme"
+              android:label="SYLLABUS"
+            android:parentActivityName=".Btech6thseme"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllbus5thseme"
+              android:label="SYLLABUS"
+            android:parentActivityName=".Btech5thseme"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllbus4thseme"
+              android:label="SYLLABUS"
+            android:parentActivityName=".Btech4thseme"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllbus3rdseme"
+              android:label="SYLLABUS"
+            android:parentActivityName=".Btech3rdseme"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllbus2ndseme"
+            android:parentActivityName=".Btech2ndseme"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllbus1stseme"
+              android:label="SYLLABUS"
+            android:parentActivityName=".Btech1stseme"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".Btech8thseme"
+            android:label="8th SEMESTER"
+             android:parentActivityName=".ece"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".Btech6thseme"
+            android:label="6th SEMESTER"
+             android:parentActivityName=".ece"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".Btech5thseme"
+            android:label="5th SEMESTER"
+             android:parentActivityName=".ece"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".Btech4thseme"
+            android:label="4th SEMESTER"
+             android:parentActivityName=".ece"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".Btech3rdseme"
+            android:label="3rd SEMESTER"
+             android:parentActivityName=".ece"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".Btech2ndseme"
+             android:parentActivityName=".ece"
+            android:label="2nd SEMESTER"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".Btech1stseme"
+            android:parentActivityName=".ece"
+            android:label="1st SEMESTER"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".organiser8thsemc"
+            android:parentActivityName=".Btech8thsemc"
+             android:label="ORGANISER"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".notes8thsemc"
+            android:label="NOTES"
+            android:parentActivityName=".Btech8thsemc"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".prequestion8thsemc"
+            android:label="PREVIOUS QUESTION"
+            android:parentActivityName=".Btech8thsemc"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllbus8thsemc"
+            android:theme="@style/Theme.BiharUniversity"
+            android:parentActivityName=".Btech8thsemc"
+              android:label="SYLLABUS"
+            android:exported="false" />
+        <activity
+            android:name=".organiser7thsemc"
+            android:label="ORGANISER"
+             android:parentActivityName=".Btech7thsemc"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".notes7thsemc"
+             android:parentActivityName=".Btech7thsemc"
+             android:label="NOTES"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".prequestion7thsemc"
+             android:parentActivityName=".Btech7thsemc"
+            android:label="PREVIOUS QUESTION"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllbus7thsemc"
+            android:parentActivityName=".Btech7thsemc"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".organiser6thsemc"
+             android:parentActivityName=".Btech6thsemc"
+            android:label="ORGANISER"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".notes6thsemc"
+             android:parentActivityName=".Btech6thsemc"
+            android:label="NOTES"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".prequestion6thsemc"
+             android:parentActivityName=".Btech6thsemc"
+            android:label="PREVIOUS QUESTION"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllbus6thsemc"
+            android:parentActivityName=".Btech6thsemc"
+              android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".organiser5thsemc"
+            android:parentActivityName=".Btech5thsemc"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".prequestion5thsemc"
+            android:label="PREVIOUS QUESTION"
+            android:parentActivityName=".Btech5thsemc"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".notes5thsemc"
+            android:label="NOTES"
+            android:parentActivityName=".Btech5thsemc"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllbus5thsemc"
+            android:parentActivityName=".Btech5thsemc"
+            android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".organiser4thsemc"
+            android:label="ORGANISER"
+            android:parentActivityName=".Btech4thsemc"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".notes4thsemc"
+            android:parentActivityName=".Btech4thsemc"
+            android:label="NOTES"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".prequestion4thsemc"
+            android:label="PREVIOUS QUESTION"
+            android:parentActivityName=".Btech4thsemc"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllbus4thsemc"
+            android:label="SYLLABUS"
+            android:parentActivityName=".Btech4thsemc"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".organiser3rdsemc"
+            android:parentActivityName=".Btech3rdsemc"
+            android:label="ORGANISER"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".notes3rdsemc"
+            android:label="NOTES"
+            android:parentActivityName=".Btech3rdsemc"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".prequestion3rdsemc"
+            android:label="PREVIOUS QUESTION"
+            android:parentActivityName=".Btech3rdsemc"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllbus3rdsemc"
+            android:label="SYLLABUS"
+            android:parentActivityName=".Btech2ndsemc"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".organiser2ndsemc"
+            android:label="ORGANISER"
+            android:parentActivityName=".Btech2ndsemc"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".notes2ndsemc"
+            android:parentActivityName=".Btech2ndsemc"
+            android:label="NOTES"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".prequestion2ndsemc"
+             android:theme="@style/Theme.BiharUniversity"
+            android:parentActivityName=".Btech2ndsemc"
+            android:label="PREVIOUS QUESTION"
+            android:exported="false" />
+        <activity
+            android:name=".syllbus2ndsemc"
+            android:label="SYLLABUS"
+            android:parentActivityName=".Btech2ndsemc"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllbus1stsemc"
+            android:parentActivityName=".Btech1stsemc"
+            android:label="SYLLABUS"
+             android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".organiser1stsemc"
+            android:theme="@style/Theme.BiharUniversity"
+            android:parentActivityName=".Btech1stsemc"
+            android:label="ORGANISER"
+            android:exported="false" />
+        <activity
+            android:name=".notes1stsemc"
+            android:label="NOTES"
+            android:parentActivityName=".Btech1stsemc"
+            android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".prequestion1stsemc"
+            android:label="PREVIOUS QUESTION"
+            android:parentActivityName=".Btech1stsemc"
+            android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".Btech8thsemc"
+            android:parentActivityName=".civil"
+            android:theme="@style/Theme.BiharUniversity"
+            android:label="8th SEMESTER"
+            android:exported="false" />
+        <activity
+            android:name=".Btech7thsemc"
+            android:label="7th SEMESTER"
+            android:parentActivityName=".civil"
+            android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".Btech6thsemc"
+            android:label="6th SEMESTER"
+            android:parentActivityName=".civil"
+            android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".Btech5thsemc"
+            android:label="5th SEMESTER"
+            android:parentActivityName=".civil"
+            android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".Btech4thsemc"
+            android:label="4th SEMESTER"
+            android:theme="@style/Theme.BiharUniversity"
+            android:parentActivityName=".civil"
+            android:exported="false" />
+        <activity
+            android:name=".Btech3rdsemc"
+            android:label="3rd SEMESTER"
+            android:theme="@style/Theme.BiharUniversity"
+            android:parentActivityName=".civil"
+            android:exported="false" />
+        <activity
+            android:name=".Btech2ndsemc"
+            android:parentActivityName=".civil"
+            android:label="2nd SEMESTER"
+            android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".Btech1stsemc"
+            android:parentActivityName=".civil"
+            android:label="1st SEMESTER"
+            android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".organiser8thsem"
+            android:label="ORGANISER"
+            android:theme="@style/Theme.BiharUniversity"
+            android:parentActivityName=".Btech8thsem"
+            android:exported="false" />
+        <activity
+            android:name=".notes8thsem"
+            android:label="NOTES"
+            android:theme="@style/Theme.BiharUniversity"
+            android:parentActivityName=".Btech8thsem"
+            android:exported="false" />
+        <activity
+            android:name=".prequestion8thsem"
+            android:label="PREVIOUS QUESTION"
+            android:parentActivityName=".Btech8thsem"
+            android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllbus8thsem"
+            android:label="SYLLABUS"
+            android:theme="@style/Theme.BiharUniversity"
+            android:parentActivityName=".Btech8thsem"
+            android:exported="false" />
+        <activity
+            android:name=".prequestion7thsem"
+            android:label="PREVIOUS QUESTION"
+            android:parentActivityName=".Btech7thsem"
+            android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".organiser7thsem"
+            android:label="ORGANISER"
+            android:parentActivityName=".Btech7thsem"
+            android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".notes7thsem"
+            android:label="NOTES"
+            android:parentActivityName=".Btech7thsem"
+            android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllbus7thsem"
+            android:parentActivityName=".Btech7thsem"
+            android:label="SYLLABUS"
+            android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".organiser6thsem"
+            android:theme="@style/Theme.BiharUniversity"
+            android:parentActivityName=".Btech6thsem"
+            android:label="ORGANISER"
+            android:exported="false" />
+        <activity
+            android:name=".notes6thsem"
+            android:parentActivityName=".Btech6thsem"
+            android:label="NOTES"
+            android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".prequestion6thsem"
+            android:parentActivityName=".Btech6thsem"
+            android:label="PREVIOUS QUESTION"
+            android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllbus6thsem"
+            android:parentActivityName=".Btech6thsem"
+            android:label="SYLLABUS"
+            android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".organiser5thsem"
+            android:parentActivityName=".Btech5thsem"
+            android:label="ORGANISER"
+            android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".notes5thsem"
+            android:parentActivityName=".Btech5thsem"
+            android:label="NOTES"
+            android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".prequestion5thsem"
+            android:parentActivityName=".Btech5thsem"
+            android:label="PREVIOUS QUESTION"
+            android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllbus5thsem"
+            android:parentActivityName=".Btech5thsem"
+            android:label="SYLLABUS"
+            android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".organiser4thsem"
+            android:parentActivityName=".Btech4thsem"
+            android:label="ORGANISER"
+            android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".notes4thsem"
+            android:parentActivityName=".Btech4thsem"
+            android:label="NOTES"
+            android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".prequestion4thsem"
+            android:parentActivityName=".Btech4thsem"
+            android:label="PREVIOUS QUESTION"
+            android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllbus4thsem"
+            android:parentActivityName=".Btech4thsem"
+            android:label="SYLLABUS"
+            android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".eee"
+            android:parentActivityName=".branches"
+            android:theme="@style/Theme.BiharUniversity"
+            android:label="ELECTRICAL AND ELECTRONICS ENGINEERING"
+            android:exported="false" />
+        <activity
+            android:name=".mechanics"
+            android:label="MECHANICAL ENGINEERING"
+            android:theme="@style/Theme.BiharUniversity"
+            android:parentActivityName=".branches"
+            android:exported="false" />
+        <activity
+            android:name=".ece"
+            android:parentActivityName=".branches"
+            android:theme="@style/Theme.BiharUniversity"
+            android:label="ELECTRONICS AND COMMUNICATIONS ENGINEERING"
+            android:exported="false" />
+        <activity
+            android:name=".civil"
+            android:parentActivityName=".branches"
+            android:label="CIVIL ENGINEERING"
+            android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+
+        <activity
+            android:name=".organiser3rdsem"
+            android:parentActivityName=".Btech3rdsem"
+            android:label="ORGANISER"
+            android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".notes3rdsem"
+            android:parentActivityName=".Btech3rdsem"
+            android:label="NOTES"
+            android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".previousquestion3rdsem"
+            android:parentActivityName=".Btech3rdsem"
+            android:label="PREVIOUS QUESTION"
+            android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllbus3rdsem"
+            android:parentActivityName=".Btech3rdsem"
+            android:label="SYLLABUS"
+            android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".organizer2ndsem"
+            android:parentActivityName=".Btech2ndsem"
+            android:label="ORGANISER"
+            android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".notes2ndsem"
+            android:parentActivityName=".Btech2ndsem"
+            android:label="NOTES"
+            android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".previquestion2ndsem"
+            android:parentActivityName=".Btech2ndsem"
+            android:label="PREVIOUS QUESTION"
+            android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".syllbus2ndsem"
+            android:parentActivityName=".Btech2ndsem"
+            android:label="SYLLABUS"
+            android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".Btech8thsem"
+            android:parentActivityName=".Btech"
+            android:label="8th SEMESTER"
+            android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".Btech7thsem"
+            android:parentActivityName=".Btech"
+            android:label="7th SEMESTER"
+            android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".Btech6thsem"
+            android:parentActivityName=".Btech"
+            android:label="6th SEMESTER"
+            android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".Btech5thsem"
+            android:parentActivityName=".Btech"
+            android:label="5th SEMESTER"
+            android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".Btech4thsem"
+            android:parentActivityName=".Btech"
+            android:label="4th SEMESTER"
+            android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".Btech3rdsem"
+            android:parentActivityName=".Btech"
+            android:label="3rd SEMESTER"
+            android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".Btech2ndsem"
+            android:parentActivityName=".Btech"
+            android:label="2nd SEMESTER"
+            android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".organiser"
+            android:parentActivityName=".Btech1stsem"
+            android:label="ORGANISER"
+            android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".nots"
+            android:parentActivityName=".Btech1stsem"
+            android:label="NOTES"
+            android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".previquestion"
+            android:theme="@style/Theme.BiharUniversity"
+            android:parentActivityName=".Btech1stsem"
+            android:label="PREVIOUS QUESTION"
+            android:exported="false" />
+        <activity
+            android:name=".syllbus"
+            android:theme="@style/Theme.BiharUniversity"
+            android:parentActivityName=".Btech1stsem"
+            android:label="SYLLABUS"
+            android:exported="false" />
+        <activity
+            android:name=".Btech1stsem"
+            android:theme="@style/Theme.BiharUniversity"
+            android:parentActivityName=".Btech"
+            android:label="1st Semester"
+            android:exported="false" />
+        <activity
+            android:name=".Btech"
+            android:label="Computer science and Engineering"
+            android:parentActivityName=".branches"
+            android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+        <activity
+            android:name=".branches"
+            android:label="BRANCHES"
+            android:parentActivityName=".MainActivity3"
+            android:theme="@style/Theme.BiharUniversity"
+            android:exported="false"/>
+        <activity
+            android:name=".MainActivity3"
+            android:label="AKU"
+            android:parentActivityName=".MainActivity2"
+            android:theme="@style/Theme.BiharUniversity"
+            android:exported="false" />
+
+        <activity
+            android:name=".MainActivity2"
+            android:label="                       Bihar University"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
